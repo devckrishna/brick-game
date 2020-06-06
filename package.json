@@ -1,0 +1,14 @@
+{
+  "name": "brick_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
